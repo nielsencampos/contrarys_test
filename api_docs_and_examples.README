@@ -1,0 +1,6 @@
+- API Docs
+    http://127.0.0.1:4321/docs
+- API Examples
+    http://127.0.0.1:4321/avg-funding-by-person/980f114b-9da9-4692-9f3e-e6ead40d065e
+    http://127.0.0.1:4321/companies-by-person/00d6e081-5b30-4362-bdb3-60740455358d
+    http://127.0.0.1:4321/investors-by-company/minerva-project
